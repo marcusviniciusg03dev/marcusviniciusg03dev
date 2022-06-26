@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marcusviniciusg03dev/marcusviniciusg03dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey! I am Marcus Vinicius 😄
+### Hey! I am Marcus Vinicius.
+
+Welcome to my GitHub profile.
 
 ![Marcus Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusviniciusg03dev&show_icons=true&theme=react&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciusg03dev&layout=compact&theme=react)](https://github.com/marcusviniciusg03dev/github-readme-stats)
 
-## Technologies i use
+### Technologies i use
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
