@@ -30,4 +30,6 @@ I'm working on e-commerce app
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="Svelte" src="https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-fff?style=for-the-badge&logo=django&logoColor=black" />
 </div><br/>
