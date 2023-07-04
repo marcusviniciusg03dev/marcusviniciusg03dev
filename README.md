@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm learning Flutter and GraphQL
-I'm working on e-commerce app
-
 ![Marcus Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusviniciusg03dev&show_icons=true&theme=react&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciusg03dev&layout=compact&theme=react)](https://github.com/marcusviniciusg03dev/github-readme-stats)
 
